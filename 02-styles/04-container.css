@@ -1,0 +1,25 @@
+/* ========================= */
+.container-04 {
+    max-width: 1440px;
+    background-color: rgba(60, 69, 23, 0.5);
+
+    font-family: "Inter", sans-serif;
+}
+
+/* ========================= */
+.container-04-header {
+    text-align: center;
+}
+
+.container-04-header p {
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+    margin: 0;
+    font-size: 54.84px;
+
+    color: white;
+    font-weight: 700;
+}
+
+/* ========================= */
