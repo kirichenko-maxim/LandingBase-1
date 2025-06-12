@@ -1,0 +1,48 @@
+/* ========================= */
+.container-07 {
+    max-width: 1440px;
+    font-family: "Inter", sans-serif;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 30px;
+}
+
+/* ========================= */
+.inner__container-07 {
+    max-width: 1440px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-07-flexbox {
+    max-width: 1271.42px;
+    margin: 0 auto;
+
+    float: right;
+    margin-right: 84.5px;
+}
+
+.container-07-header p {
+    font-size: 35.54px;
+    font-weight: 700;
+}
+
+/* ========================= */
+.container-07-header p {
+    font-size: 35.54px;
+    font-weight: 700;
+
+    color: white;
+    margin-top: 83.27px;
+}
+
+.container-07-description p {
+    width: 555px;
+    font-size: 24.37px;
+
+    color: white;
+    margin-bottom: 283.24px;
+}
+
+/* ========================= */
